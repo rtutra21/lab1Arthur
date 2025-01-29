@@ -25,7 +25,7 @@ public class Main {
         studentsNew.add(student6);
         studentsNew.add(student7);
         studentsNew.add(student8);
-        
+
         Student.printStudents(studentsNew, 2);
 
     }
