@@ -23,7 +23,6 @@ public class Student {
         this.marks = marks;
     }
 
-
     public double averageMark() {
         int sum = 0;
         double result;
